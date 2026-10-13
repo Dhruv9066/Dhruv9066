@@ -170,7 +170,7 @@ I'm always interested in connecting with engineers, collaborating on cloud-nativ
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
-<a href="https://github.com/DhruvkumarPatel">
+<a href="https://github.com/Dhruv9066">
   <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
 </a>
 
