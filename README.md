@@ -21,7 +21,6 @@
   <a href="https://github.com/Dhruv9066">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=DhruvkumarPatel&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 </div>
